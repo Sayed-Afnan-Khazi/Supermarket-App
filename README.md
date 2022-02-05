@@ -4,14 +4,14 @@ This project was my submission for the end of high school CS project.
 This project was coded in python and interfaced with MySQL for database management
 # How to start?
 # Pre-requisites:
-The repository contains extra files that are all needed for the app to run.
-Please ensure you have MySQL 8.0+ and Python 3.7+ before starting up.
+The repository contains extra files that are all needed for the app to run. \
+Please ensure you have MySQL 8.0+ and Python 3.7+ before starting up. \
 # Setting up the application:
-Upon running the main script, you will be prompted to enter your MySQL credentials.
-After that, please use the given Admin login ID and password for initial setup.
+Upon running the main script, you will be prompted to enter your MySQL credentials. \
+After that, please use the given Admin login ID and password for initial setup. \
 Follow the onscreen instructions to automatically setup the database, tables and the optional initial data (Sample Products)
 # MySQL Database:
-The database ("supermarketapp") contains two tables- \n
+The database ("supermarketapp") contains two tables- 
 products2 - 
   Product Name: pname -> varchar(50)
   Product Barcode: pbarcode -> double, primary key (unique values only)
