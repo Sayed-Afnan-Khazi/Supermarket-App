@@ -11,19 +11,19 @@ Upon running the main script, you will be prompted to enter your MySQL credentia
 After that, please use the given Admin login ID and password for initial setup.
 Follow the onscreen instructions to automatically setup the database, tables and the optional initial data (Sample Products)
 # MySQL Database:
-The database ("supermarketapp") contains two tables- 
-products2 - 
-  Product Name: pname -> varchar(50)
-  Product Barcode: pbarcode -> double, primary key (unique values only)
-  Product Price: pprice -> float
-  Product Inventory Quantity: invqty -> integer, default value =0
-employee2 -
-  Employee Number: enum -> integer, Primary Key (Unique values only)
-  Employee Name: ename -> varchar(50)
-  Employee Login Username: eusername -> varchar(50)
-  Employee Login Password: epassword -> varchar(50)
-  Employee Salary: salary -> float
-  Employee Bonus: bonus -> float
+The database ("supermarketapp") contains two tables- \n
+products2 - \n
+\t  Product Name: pname -> varchar(50)
+\t  Product Barcode: pbarcode -> double, primary key (unique values only)
+\t  Product Price: pprice -> float
+\t  Product Inventory Quantity: invqty -> integer, default value =0
+employee2 - \n
+\t  Employee Number: enum -> integer, Primary Key (Unique values only)
+\t  Employee Name: ename -> varchar(50)
+\t  Employee Login Username: eusername -> varchar(50)
+\t  Employee Login Password: epassword -> varchar(50)
+\t  Employee Salary: salary -> float
+\t  Employee Bonus: bonus -> float
  
 (Future me, please type more info about the tables and features here)
 # Bug Report:
