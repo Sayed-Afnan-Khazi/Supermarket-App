@@ -43,7 +43,7 @@ The database ("supermarketapp") contains two tables-
   * Stores profile/employee data, the login system is based on retrieving data from this file.
 * attendancelogs.csv -
   * Stores employee attendance tag-ins and tag-outs as seperate lines
-  * Lines are stored in chronological rder of tag-ins/outs
+  * Lines are stored in chronological order of tag-ins/outs
  
 (Future me, please type more info about the features here)
 # Bug Report:
